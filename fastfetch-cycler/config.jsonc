@@ -1,0 +1,35 @@
+{
+    "$schema": "https://github.com",
+    "logo": {
+        "type": "kitty-icat",
+        "source": "RANDOM_PLACEHOLDER.string", // The cycle logo script will dynamically swap this string to point to the images stored in your fastfetch directory
+        "width": 28,
+        "height": 12
+    },
+
+    "display": {
+        "color": {
+            "keys": "magenta", // these values can be customized to match your preference
+            "title": "blue"
+        }
+    },
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "display",
+        "de",
+        "wm",
+        "terminal",
+        "cpu",
+        "gpu",
+        "memory",
+        "break",
+        "colors"
+    ]
+}
