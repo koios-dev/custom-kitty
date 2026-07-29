@@ -52,9 +52,28 @@ Every time you run the command, the script will automatically swap out and cycle
 
 ---
 
+## tested on:
+                               
+                               (VM)
+                               OS: Debian GNU/Linux 13 (trixie) x86_64
+                               Host: KVM/QEMU Standard PC (i440FX + PIIX, 1996) (pc-i440fx-9.2)
+                               Kernel: Linux 6.12.96+deb13-amd64
+                               Shell: bash 5.2.37
+                               DE: KDE Plasma 6.3.6
+                               WM: KWin (X11)
+                               Terminal: kitty 0.48.1
+                               CPU: QEMU Virtual version 2.5+ (4) @ 3.69 GHz
+                               GPU: RedHat Virtio 1.0 GPU
+                               Memory: 3.70 GiB / 5.79 GiB (64%)
+
+
+
 ## Demo Videos
 Check out the script in action below:
 
-| Preview 1 | Preview 2 |
-| :---: | :---: |
-| <video src="fastfetch-cycler/video1.mp4" width="400" controls></video> | <video src="fastfetch-cycler/video2.mp4" width="400" controls></video> |
+https://github.com/user-attachments/assets/e3382c47-1211-4ee4-9212-ed2335d16865
+
+
+https://github.com/user-attachments/assets/3a067a4b-5ecb-4a8b-b605-d31e83d1ad39
+
+
