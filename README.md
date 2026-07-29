@@ -4,14 +4,18 @@ A collection of utility tools designed to enhance, customize, and extend the pow
 ## Description
 Custom-Kitty began as a private suite of personal scripts and configurations to optimize productivity within the Kitty terminal. 
 
-The project is now completely public and open source. It provides a modular foundation so that anyone can easily integrate, share, and contribute their own custom features, shortcuts, and terminal enhancements.
+The project is now completely public and open source.
+It provides a modular foundation so that anyone can easily integrate, share, and contribute their own custom features, shortcuts, and terminal enhancements.
 
 # Repository Contents:
+The complete list of tools found in this repository, more coming soon!
 
-## Fastfetch Logo Cycler
+## - [Fastfetch Logo Cycler ](https://github.com/koios-dev/custom-kitty/tree/main/fastfetch-cycler#demo-videos) 
 
-A lightweight bash script to automatically cycle the logo image in `fastfetch` every time it runs. This script switches the displayed image sequentially using files placed in your images directory.
-
+```
+A lightweight bash script to automatically cycle the logo image in `fastfetch` every time it runs.
+This script switches the displayed image sequentially using files placed in your images directory.
+```
 
 __
 ## Repository Overview
