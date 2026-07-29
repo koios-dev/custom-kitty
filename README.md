@@ -6,11 +6,20 @@ Custom-Kitty began as a private suite of personal scripts and configurations to 
 
 The project is now completely public and open source. It provides a modular foundation so that anyone can easily integrate, share, and contribute their own custom features, shortcuts, and terminal enhancements.
 
+# Repository Contents:
+
+## Fastfetch Logo Cycler
+
+A lightweight bash script to automatically cycle the logo image in `fastfetch` every time it runs. This script switches the displayed image sequentially using files placed in your images directory.
+
+
+__
 ## Repository Overview
 This repository serves as the central hub for the Custom-Kitty project. 
 Because this is the main repository, it does not contain specific configuration or installation steps for individual utilities.
 
 To explore, install, or learn how to use a specific tool, please navigate into that tool's dedicated directory and read its local README.md file.
+__________________________________________________
 
 ## Contributing
 Contributions are welcome! 
